@@ -19,6 +19,7 @@ A full-stack web application that uses **AI (OpenAI GPT-4o Vision)** to extract 
 - [Using the App](#using-the-app)
 - [API Reference](#api-reference)
 - [Environment Variables](#environment-variables)
+- [Available Scripts](#available-scripts)
 
 ---
 
@@ -382,5 +383,5 @@ No environment variables are required for local development. The API base URL is
 | `npm start`      | Start the development server             |
 | `npm run build`  | Create an optimized production build     |
 | `npm test`       | Run the test suite                       |
-#   o c r _ r e a c t j s _ n e s t j s  
- 
+
+---
